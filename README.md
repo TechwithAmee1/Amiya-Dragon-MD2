@@ -26,7 +26,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TechwithAmee1/zimbot-v4)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TechwithAmee1/Amiya-Dragon-MD2/)
 
 ## BUILD PACKS
 
