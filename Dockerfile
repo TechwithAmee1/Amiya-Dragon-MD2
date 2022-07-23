@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/TechwithAmee1/Amiya-Dragon-MD2/Drips/Zimbotv4
+RUN git clone https://github.com/TechwithAmee1/Amiya-Dragon-MD2/ Amiya/AMIYA DRAGON BOT V2
 
 WORKDIR /Drips/Zimbotv4
 
