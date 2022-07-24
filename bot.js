@@ -54,7 +54,7 @@ global.dripsrecord = false
 global.available = false
 global.unavailable = true
 global.limittot = 100,
-global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
+global.thumb = fs.readFileSync('./Amiya-Dragon-MD2/drips.jpg')
 global.reactmoji = '🇱🇰'
 global.imgjoinrpg = fs.readFileSync('./image/joinrpg.jpg')
 global.imgmining = fs.readFileSync('./image/mining.jpg')
@@ -96,7 +96,7 @@ emeraldawal: 5,
 umpanawal: 5,
 potionawal: 1
 }
-global.thumb = fs.readFileSync('./Zimbot/amiya.jpg')
+global.thumb = fs.readFileSync('./Amiya-Dragon-MD2/amiya.jpg')
 global.visoka = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
 global.vid = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
 
